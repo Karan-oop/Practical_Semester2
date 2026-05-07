@@ -15,7 +15,7 @@ const App =() => {
       <h1>Fetch API Example</h1>
 
       <FetchAPI />
-
+*
     </div>
   )
 }
