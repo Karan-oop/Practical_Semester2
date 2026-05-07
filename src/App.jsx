@@ -6,12 +6,14 @@ import FetchAPI from './FetchAPI'
 const App =() => {
   return (
     <div>
+      <h3><hr />Question 1</h3>
       <h1>Parent Component</h1>
 
       <UserProfile name="Karan Chandra Kothari"
       age={19}
       />
 
+     <h3><hr />Question 2</h3>
       <h1>Fetch API Example</h1>
 
       <FetchAPI />
